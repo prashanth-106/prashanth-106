@@ -1,5 +1,5 @@
 # 💫 About Me:
-•Information Science and Engineering student with a solid foundation in software development. Proficient in JavaScript, SQL, and Python.<br><br>•Passionate about building scalable applications using modern development practices.<br><br>Experienced in developing and collaborating on real-world projects.<br><br>•Enthusiastic about solving complex technical problems and continuous learning.<br><br>•Eager to work in dynamic environments that promote innovation and teamwork.<br><br>•Actively seeking opportunities to contribute to impactful open-source or professional projects.<br><br>
+• Information Science and Engineering student with a solid foundation in software development. Proficient in JavaScript, SQL, and Python.<br><br>• Passionate about building scalable applications using modern development practices.<br><br>• Experienced in developing and collaborating on real-world projects.<br><br>• Enthusiastic about solving complex technical problems and continuous learning.<br><br>• Eager to work in dynamic environments that promote innovation and teamwork.<br><br>• Actively seeking opportunities to contribute to impactful open-source or professional projects.<br><br>
 
 
 
